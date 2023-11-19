@@ -1,0 +1,6 @@
+<map id="_HashTable" name="_HashTable">
+<area shape="rect" id="node1" title="Definition of the hash table container." alt="" coords="22,288,113,315"/>
+<area shape="rect" id="node2" href="$struct___hash_table_node.html" title="One item stored in the HashTable." alt="" coords="6,199,129,225"/>
+<area shape="rect" id="node3" href="$struct_data__t.html" title="Basic structure of abstract data type." alt="" coords="37,95,97,121"/>
+<area shape="rect" id="node4" href="$struct_data___functions__t.html" title="Defines the interface of the data type." alt="" coords="5,5,129,32"/>
+</map>

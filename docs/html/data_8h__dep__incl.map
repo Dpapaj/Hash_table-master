@@ -1,0 +1,13 @@
+<map id="src/include/data.h" name="src/include/data.h">
+<area shape="rect" id="node1" title="Headers of Data Abstract type." alt="" coords="308,5,433,32"/>
+<area shape="rect" id="node2" href="$data_8c.html" title="Implementation of void abstract type functions Jak vidíte níže, void nemá definován žádný konstruktor..." alt="" coords="5,80,85,107"/>
+<area shape="rect" id="node3" href="$data__person_8c.html" title="Implementation of Data_Person_t specialization of Data_t abstract type." alt="" coords="118,155,245,181"/>
+<area shape="rect" id="node4" href="$data__cstring_8h.html" title="Headers of Data_Cstring_t specialization of Data_t abstract type." alt="" coords="408,80,579,107"/>
+<area shape="rect" id="node6" href="$main_8c.html" title="Main file of HashTable." alt="" coords="327,155,414,181"/>
+<area shape="rect" id="node7" href="$data__person_8h.html" title="Headers of Data_Person_t specialization of Data_t abstract type." alt="" coords="161,80,333,107"/>
+<area shape="rect" id="node8" href="$hash__private_8h.html" title="Definition file of the hash module." alt="" coords="681,155,855,181"/>
+<area shape="rect" id="node11" href="$table_8h.html" title="Header file for Hashtable." alt="" coords="603,80,731,107"/>
+<area shape="rect" id="node5" href="$data__cstring_8c.html" title="Implementation of Data_Cstring_t specialization of Data_t abstract type." alt="" coords="438,155,565,181"/>
+<area shape="rect" id="node9" href="$hash__private_8c.html" title="Declaration file of the hash module." alt="" coords="709,229,837,256"/>
+<area shape="rect" id="node10" href="$table_8c.html" title="Implementation of functions for HashTable." alt="" coords="603,229,685,256"/>
+</map>

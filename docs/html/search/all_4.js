@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['data_9',['data',['../struct_data__t.html#a735984d41155bc1032e09bece8f8d66d',1,'Data_t']]],
+  ['data_2ec_10',['data.c',['../data_8c.html',1,'']]],
+  ['data_2eh_11',['data.h',['../data_8h.html',1,'']]],
+  ['data_5fcmp_12',['Data_Cmp',['../group__data.html#ga51c812529667850d5944f28a82c14d97',1,'data.c']]],
+  ['data_5fcstring_2ec_13',['data_cstring.c',['../data__cstring_8c.html',1,'']]],
+  ['data_5fcstring_2eh_14',['data_cstring.h',['../data__cstring_8h.html',1,'']]],
+  ['data_5fcstring_5fcreate_15',['Data_Cstring_Create',['../group__data_cstring.html#gaaef704246aa9609197fe14be4c1f8583',1,'data_cstring.c']]],
+  ['data_5fcstring_5finit_16',['Data_Cstring_Init',['../group__data_cstring.html#ga952aea6441b9bf857a555235f75a058d',1,'data_cstring.c']]],
+  ['data_5fcstring_5fnew_17',['Data_Cstring_New',['../group__data_cstring.html#ga8eb7b3725d895cf558c101bfcd34c2d7',1,'data_cstring.c']]],
+  ['data_5fcstring_5ft_18',['Data_Cstring_t',['../struct_data___cstring__t.html',1,'']]],
+  ['data_5ffrom_5fstring_19',['Data_From_String',['../group__data.html#ga8b4f6d05a6824842e26a1280e793bc4f',1,'data.c']]],
+  ['data_5ffunctions_5ft_20',['Data_Functions_t',['../struct_data___functions__t.html',1,'']]],
+  ['data_5fget_5ftype_21',['Data_Get_Type',['../group__data.html#ga930eb1f8a04338588b016e61dfaba241',1,'data.c']]],
+  ['data_5fhash_22',['Data_Hash',['../group__data.html#gacad203914a0595adaabb73621c26c340',1,'data.c']]],
+  ['data_5fperson_2ec_23',['data_person.c',['../data__person_8c.html',1,'']]],
+  ['data_5fperson_2eh_24',['data_person.h',['../data__person_8h.html',1,'']]],
+  ['data_5fperson_5fcreate_25',['Data_Person_Create',['../group__data_person.html#ga7c6e22b921fd23961ce8263977295d9f',1,'data_person.c']]],
+  ['data_5fperson_5finit_26',['Data_Person_Init',['../group__data_person.html#ga6d232a175994ba12c65813d7cbd6f067',1,'data_person.c']]],
+  ['data_5fperson_5fnew_27',['Data_Person_New',['../group__data_person.html#ga060308539d07da7edd68d24bbb67e05d',1,'data_person.c']]],
+  ['data_5fperson_5ft_28',['Data_Person_t',['../struct_data___person__t.html',1,'']]],
+  ['data_5ft_29',['Data_t',['../struct_data__t.html',1,'']]],
+  ['data_5fto_5fstring_30',['Data_To_String',['../group__data.html#gaf10c107718ef95982b3b1b66934f79dc',1,'data.c']]],
+  ['data_20c_2dstring_31',['Data C-String',['../group__data_cstring.html',1,'']]],
+  ['data_20person_32',['Data person',['../group__data_person.html',1,'']]],
+  ['destruct_33',['destruct',['../struct_data___functions__t.html#a04c95b43f658a3b856b2b2a097caf4df',1,'Data_Functions_t']]]
+];
